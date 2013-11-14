@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fa12-cs242/!svn/ver/11525/garciac2/Final3/src/com/android/sampler
+END
+Looper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/fa12-cs242/!svn/ver/11525/garciac2/Final3/src/com/android/sampler/Looper.java
+END
+MusicSamplerActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/fa12-cs242/!svn/ver/11525/garciac2/Final3/src/com/android/sampler/MusicSamplerActivity.java
+END
+Sample.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/fa12-cs242/!svn/ver/11525/garciac2/Final3/src/com/android/sampler/Sample.java
+END
+SamplerActivityState.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/fa12-cs242/!svn/ver/11525/garciac2/Final3/src/com/android/sampler/SamplerActivityState.java
+END
+SampleSplicer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fa12-cs242/!svn/ver/11525/garciac2/Final3/src/com/android/sampler/SampleSplicer.java
+END
+SampleTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fa12-cs242/!svn/ver/11525/garciac2/Final3/src/com/android/sampler/SampleTracker.java
+END
